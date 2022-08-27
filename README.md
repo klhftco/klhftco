@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently studying BioE and EECS at UC Berkeley!
+- 📫 How to reach me: klhftco@berkeley.edu
+- 😄 Pronouns: He/Him/His
