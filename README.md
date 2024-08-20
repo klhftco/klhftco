@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying BioE and EECS at UC Berkeley!
 - 🔭 I’ve been working on https://github.com/j0nnn/Venmo-Integration/
 - ⚡ Check out my website!: [klhftco.github.io](https://klhftco.github.io)
-- 📫 How to reach me: klhftco[at]berkeley[dot]edu
+- 📫 How to reach me: klhftco@berkeley.edu
 - 😄 Pronouns: He/Him/His
